@@ -11,6 +11,8 @@
 * [Mux](https://github.com/Rafu2102/_co/blob/master/01/Mux.hdl)
 * [Dmux](https://github.com/Rafu2102/_co/blob/master/01/DMux.hdl)
 
+* [電路1](https://github.com/Rafu2102/_co/blob/master/%E6%9C%9F%E4%B8%AD/%E9%9B%BB%E8%B7%AF1.jpg)
+
 --重點:
 利用 NAND（全能閘）構建基本邏輯閘。
 理解 NOT, AND, OR, XOR 的邏輯功能與真值表。
